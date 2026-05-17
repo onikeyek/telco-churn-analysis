@@ -41,7 +41,7 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** on a tel
 - Set those values to `0.00` rather than dropping the rows
 - Confirmed all 7,043 rows loaded correctly before analysis
 
-> Full cleaning script: [`sql/02_data_cleaning.sql`](sql/02_data_cleaning.sql)
+> Full cleaning script: [`sql/02_data_cleaning.sql`](https://github.com/onikeyek/telco-churn-analysis)
 
 ---
 
@@ -111,6 +111,8 @@ DIVIDE(
 This measure dynamically recalculates the churn rate based on whatever slicer selections are active — making the dashboard fully interactive.
 
 ### Dashboard Visuals
+<img width="911" height="508" alt="image" src="https://github.com/user-attachments/assets/22d5509a-fe03-4cdf-b8ea-f0b41dcbcb73" />
+
 
 | Visual | Chart Type |
 |---|---|
