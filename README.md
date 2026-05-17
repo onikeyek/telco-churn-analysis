@@ -157,11 +157,11 @@ telco-churn-analysis/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
-├── sql/
-│   ├── Telco_churn.sql
+├──dashboard/
+│   └── Telco_customer_Analysis.pbix
 │
-├── dashboard/
-│   └── Telco_Churn_Analysis.pbix
+├── Sql/
+│   └── Telco_churn.sql
 │
 └── README.md
 ```
