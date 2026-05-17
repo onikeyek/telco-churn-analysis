@@ -158,9 +158,7 @@ telco-churn-analysis/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── sql/
-│   ├── 01_create_table.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_eda_queries.sql
+│   ├── Telco_churn.sql
 │
 ├── dashboard/
 │   └── Telco_Churn_Analysis.pbix
